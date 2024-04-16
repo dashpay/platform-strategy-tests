@@ -1,4 +1,8 @@
 # platform-strategy-tests
 A repository for the storage of actual platform strategy tests, (not the code).
 
-To import a strategy test into the Platform TUI, click on the file of the strategy you are interested in, right-click on the `Raw` button, `Copy link address` and paste the address into the TUI.
+To import a strategy test into the Platform TUI, you need to paste the raw github file link into the TUI.
+
+To get the raw github file link for a strategy test, click on the file of the strategy you are interested in, right-click on the `Raw` button, and `Copy link address`.
+
+A raw github file link looks like this, for example: `https://github.com/dashpay/platform-strategy-tests/raw/master/documents/50_dashpay_contactInfo_per_second_minFill`.
