@@ -17,7 +17,7 @@ Registers 30 start identities and 100 dpns contract variants, then submits 1 min
 
 | Date | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| April 17, 2024 | 10 min | 74% | 15 DASH | 97 | 23 | 968 | 1.45 | 58830 | 43731 | 0 | 732 | 14352 | ? |
+| April 17, 2024 | 10 min | 74% | 15 DASH | 97 | 23.1 | 968 | 1.45 | 58830 | 43731 | 0 | 732 | 14352 | ? |
 
 <br/>
 
@@ -26,7 +26,7 @@ Registers 30 start identities and 50 dashpay contract variants, then submits 1 m
 
 | Date | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| April 17, 2024 | 10 min | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? |
+| April 17, 2024 | 10 min | 99% | 15 DASH | 49 | 13.2 | 388 | 2.0 | 29730 | 29460 | 0 | 264 | 0 | ? |
 
 <br/>
 
