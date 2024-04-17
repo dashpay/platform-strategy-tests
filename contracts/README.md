@@ -1,5 +1,12 @@
 # Contract Strategies
+Strategies focused on broadcasting contracts.
 
-**100_dashpay_contactInfo_per_second_minFill**: Registers 30 start identities and then 100 random contracts per second with 1 document type each. Doesn't work well at all due to nonce errors.
+*Statistics in the tables are based off of 10-minute runs in Platform TUI*
 
-**20_dashpay_contactInfo_per_second_minFill**: Registers 30 start identities and then 20 random contracts per second with 1 document type each.
+## contract-create-random-10tps-1doctype
+Init: 50 start identities with 0.2 DASH each
+Load: 10 random contracts per second with 1 document type each.
+
+| Date | Success Rate | Cost | Avg mined tx/s | Avg tx/block | Avg blocks/minute | Total txs attempted | Nonce Errors | Timeout Errors | Other errors |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| April 17, 2024 | 100% | 10 DASH | 10 | 252 | 2.24 | 5957 | 3 | 81 | ? |
