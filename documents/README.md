@@ -6,7 +6,7 @@ Registers 30 start identities and 100 dashpay contract variants, then submits 1 
 
 | Date | Run Time | Success Rate | Cost | tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| April 17, 2024 | 10 min | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? |
+| April 17, 2024 | 10 min | 75% | 15 DASH | 98 | 14.5 | 388 | 2.24 | 59330 | 44798 | 155 | 250 | 14125 | ? |
 
 ## 50_dashpay_contactInfo_per_second_minFill
 Registers 30 start identities and 50 dashpay contract variants, then submits 1 minimal contactInfo document per second to all 50 contracts.
