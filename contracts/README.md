@@ -8,4 +8,4 @@ Registers 50 start identities with 0.2 DASH each and then 10 random contracts pe
 
 | Date | Success Rate | Cost | Avg mined tx/s | Avg tx/block | Avg blocks/minute | Total txs attempted | Nonce Errors | Timeout Errors | Other errors |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| April 17, 2024 | 100% | 10 DASH | 10 | 252 | 2.24 | 5957 | 3 | 81 | ? |
+| April 17, 2024 | 100% | 10 DASH | 10 | 252 | 2.24 | 5957 | 3 | 81 | 0 |
