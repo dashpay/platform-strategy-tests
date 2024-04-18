@@ -35,4 +35,4 @@ Registers 30 start identities with 0.5 DASH each and 50 [dpns preorder contract]
 
 | Date | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| April 17, 2024 | 10 min | 99% | 15 DASH | 49 | 28.0 | 968 | 1.7 | 29630 | 29178 | 0 | 452 | 0 | - |
+| April 17, 2024 | 10 min | 99% | 9 DASH | 49 | 28.0 | 968 | 1.7 | 29630 | 29178 | 0 | 452 | 0 | - |
