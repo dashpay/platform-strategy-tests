@@ -8,8 +8,8 @@ Registers 30 start identities with 0.4 DASH each and 100 [modified dashpay contr
 
 | Date | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| April 17, 2024 | 10 min | 75% | 12 DASH | 98 | 14.5 | 388 | 2.24 | 59330 | 44798 | 155 | 250 | 14125 | - |
 | April 19, 2024 | 10 min | 83% | 12 DASH | 99 | 21.2 | 388 | 3.05 | 59630 | 50074 | 24 | 123 | 9404 | - |
+| April 17, 2024 | 10 min | 75% | 12 DASH | 98 | 14.5 | 388 | 2.24 | 59330 | 44798 | 155 | 250 | 14125 | - |
 
 <br/>
 
