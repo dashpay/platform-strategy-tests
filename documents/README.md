@@ -4,11 +4,12 @@ Strategies focused on broadcasting documents.
 <br/>
 
 ## 100_dashpay_contactInfo_per_second_minFill
-Registers 30 start identities with 0.5 DASH each and 100 [modified dashpay contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dashpay-contract-all-mutable.json) variants, then submits 1 minimal contactInfo document per second to all 100 contracts.
+Registers 30 start identities with 0.4 DASH each and 100 [modified dashpay contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dashpay-contract-all-mutable.json) variants, then submits 1 minimal contactInfo document per second to all 100 contracts.
 
 | Date | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | April 17, 2024 | 10 min | 75% | 12 DASH | 98 | 14.5 | 388 | 2.24 | 59330 | 44798 | 155 | 250 | 14125 | - |
+| April 19, 2024 | 10 min | 83% | 12 DASH | 99 | 21.2 | 388 | 3.05 | 59630 | 50074 | 24 | 123 | 9404 | - |
 
 <br/>
 
