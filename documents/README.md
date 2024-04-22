@@ -46,6 +46,7 @@ Registers 30 start identities with 0.3 DASH each and 50 [modified dashpay contra
 
 | Version | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| v1.0.0-dev.11 | 10 min | 99% | 9 DASH | 49 | 23.7 | 388 | 3.7 | 29930 | 29900 | 0 | 29 | 0 | - |
 | v1.0.0-dev.10 | 10 min | 99% | 9 DASH | 49 | 13.2 | 388 | 2.0 | 29730 | 29460 | 0 | 264 | 0 | - |
 
 <br/>
