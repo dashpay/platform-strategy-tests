@@ -14,7 +14,7 @@ Registers 50 start identities with 0.2 DASH each and then 10 random contracts pe
 <br/>
 
 ## contract-create-random-20tps-1doctype
-Registers 50 start identities with 0.2 DASH each and then 10 random contracts per second with 1 document type each.
+Registers 50 start identities with 0.2 DASH each and then 20 random contracts per second with 1 document type each.
 
 | Version | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit errors | Other errors |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
