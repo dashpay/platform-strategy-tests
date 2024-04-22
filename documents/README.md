@@ -51,7 +51,7 @@ Registers 30 start identities with 0.3 DASH each and 50 [modified dashpay contra
 
 <br/>
 
-## 50_dashpay_contactInfo_per_second_maxFill
+## 50-maxFill-fillNotRequired-dashpay-contactInfo
 Registers 30 start identities with 0.4 DASH each and 50 [modified dashpay contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dashpay-contract-all-mutable.json) variants, then submits 1 maximal contactInfo document per second to all 50 contracts.
 
 | Version | Run Time | Success Rate | Cost | Avg sent tx/s (attempted) | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
