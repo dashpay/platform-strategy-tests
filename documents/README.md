@@ -56,4 +56,5 @@ Registers 30 start identities with 0.2 DASH each and 50 [dpns preorder contract]
 
 | Version | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| v1.0.0-dev.11 | 10 min | 99% | 6 DASH | 49 | 33.5 | 529 | 3.7 | 29930 | 29906 | 0 | 24 | 0 | 0 |
 | v1.0.0-dev.10 | 10 min | 99% | 6 DASH | 49 | 28.0 | 968 | 1.7 | 29630 | 29178 | 0 | 452 | 0 | - |
