@@ -23,6 +23,15 @@ Registers 30 start identities with 0.4 DASH each and 100 [dpns preorder contract
 
 <br/>
 
+## 80-dashpay-contactInfo-per_second-minFill
+Registers 30 start identities with 0.4 DASH each and 80 [modified dashpay contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dashpay-contract-all-mutable.json) variants, then submits 1 minimal contactInfo document per second to all 80 contracts.
+
+| Date | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| April 19, 2024 | 10 min | 99% | 12 DASH | 79 | 21.2 | 388 | 3.05 | 47710 | 47611 | 16 | 60 | 17 | - |
+
+<br/>
+
 ## 80_dpns_preorder_per_second_minFill
 Registers 30 start identities with 0.3 DASH each and 80 [dpns preorder contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dpns_contract_preorder.json) variants, then submits 1 minimal preorder document per second to all 80 contracts.
 
