@@ -3,7 +3,7 @@ Strategies focused on broadcasting documents.
 
 <br/>
 
-## 100_dashpay_contactInfo_per_second_minFill
+## 100-minFill-fillNotRequired-dashpay-contactInfo
 Registers 30 start identities with 0.4 DASH each and 100 [modified dashpay contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dashpay-contract-all-mutable.json) variants, then submits 1 [minimal contactInfo document](https://github.com/dashpay/platform-strategy-tests/blob/master/documents/examples/minFill-fillNotRequired-dashpay-contactInfo.json) per second to all 100 contracts.
 
 | Version | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
@@ -22,7 +22,7 @@ Registers 30 start identities with 0.5 DASH each and 100 [modified dashpay contr
 
 <br/>
 
-## 100_dpns_preorder_per_second_minFill
+## 100-minFill-fillNotRequired-dpns-preorder
 Registers 30 start identities with 0.4 DASH each and 100 [dpns preorder contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dpns_contract_preorder.json) variants, then submits 1 [preorder document](https://github.com/dashpay/platform-strategy-tests/blob/master/documents/examples/dpns-preorder.json) per second to all 100 contracts.
 
 | Version | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
@@ -32,7 +32,7 @@ Registers 30 start identities with 0.4 DASH each and 100 [dpns preorder contract
 
 <br/>
 
-## 80-dashpay-contactInfo-per_second-minFill
+## 80-minFill-fillNotRequired-dashpay-contactInfo
 Registers 30 start identities with 0.4 DASH each and 80 [modified dashpay contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dashpay-contract-all-mutable.json) variants, then submits 1 [minimal contactInfo document](https://github.com/dashpay/platform-strategy-tests/blob/master/documents/examples/minFill-fillNotRequired-dashpay-contactInfo.json) per second to all 80 contracts.
 
 | Version | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
@@ -50,7 +50,7 @@ Registers 30 start identities with 0.5 DASH each and 80 [modified dashpay contra
 
 <br/>
 
-## 80_dpns_preorder_per_second_minFill
+## 80-minFill-fillNotRequired-dpns-preorder
 Registers 30 start identities with 0.3 DASH each and 80 [dpns preorder contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dpns_contract_preorder.json) variants, then submits 1 [preorder document](https://github.com/dashpay/platform-strategy-tests/blob/master/documents/examples/dpns-preorder.json) per second to all 80 contracts.
 
 | Version | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
@@ -59,7 +59,7 @@ Registers 30 start identities with 0.3 DASH each and 80 [dpns preorder contract]
 
 <br/>
 
-## 50_dashpay_contactInfo_per_second_minFill
+## 50-minFill-fillNotRequired-dashpay-contactInfo
 Registers 30 start identities with 0.3 DASH each and 50 [modified dashpay contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dashpay-contract-all-mutable.json) variants, then submits 1 [minimal contactInfo document](https://github.com/dashpay/platform-strategy-tests/blob/master/documents/examples/minFill-fillNotRequired-dashpay-contactInfo.json) per second to all 50 contracts.
 
 | Version | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
@@ -78,7 +78,7 @@ Registers 30 start identities with 0.4 DASH each and 50 [modified dashpay contra
 
 <br/>
 
-## 50_dpns_preorder_per_second_minFill
+## 50-minFill-fillNotRequired-dpns-preorder
 Registers 30 start identities with 0.2 DASH each and 50 [dpns preorder contract](https://github.com/dashpay/rs-platform-explorer/blob/time-based-strategy-execution/supporting_files/contract/dpns_contract_preorder.json) variants, then submits 1 [preorder document](https://github.com/dashpay/platform-strategy-tests/blob/master/documents/examples/dpns-preorder.json) per second to all 50 contracts.
 
 | Version | Run Time | Success Rate | Cost | Avg sent tx/s | Avg mined tx/s | Avg tx/block | Avg blocks/min | Attempt count | Success count | Nonce Errors | Timeout Errors | Rate limit error | Other errors |
