@@ -8,3 +8,15 @@ To get the raw github file link for a strategy test, click on the file of the st
 A raw github file link looks like this, for example: `https://github.com/dashpay/platform-strategy-tests/raw/master/documents/50_dashpay_contactInfo_per_second_minFill`.
 
 Note that the raw github file link is the same as the regular file link, except the "blob" directory is replaced with "raw".
+
+## contracts
+
+Strategy tests focused on broadcasting random data contracts
+
+## documents
+
+Strategy tests focused on broadcasting random documents
+
+## identities
+
+Strategy tests focused on registering identities
